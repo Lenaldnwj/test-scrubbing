@@ -1,1 +1,3 @@
 # test-scrubbing
+
+password=***REMOVED***
